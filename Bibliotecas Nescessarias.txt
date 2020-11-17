@@ -1,0 +1,16 @@
+Para que o programa funcione é preciso instalar alguns pacotes do Python,
+-Tambem é preciso instalar o Visual Studio C++ no link: https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/
+para instalar o dlib é preciso instalar o Visual Studio.
+
+-Aviso - Não é possivel rodar o programa sem Web-cam.
+-Aviso - Não é Possivel Rodar o programa sem uma foto ao menos no banco de imagem
+
+Comandos a serem colocados no pronpt de comando como administrador para instalar as biblioteca:
+
+1.pip install cmake
+2.pip install opencv-python
+3.pip install PySimpleGUI
+4.pip install dlib
+5.pip install numpy
+6.pip install face-recognition
+7.pip install mysql-connector-python
